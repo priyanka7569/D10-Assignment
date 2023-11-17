@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\bin\Debug\D10-BinarySearchAndBubbleSortAssignment.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\bin\Debug\D10-BinarySearchAndBubbleSortAssignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\bin\Debug\D10-BinarySearchAndBubbleSortAssignment.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\obj\Debug\D10-BinarySearchAndBubbleSortAssignment.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\obj\Debug\D10-BinarySearchAndBubbleSortAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\obj\Debug\D10-BinarySearchAndBubbleSortAssignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D10-BinarySearchAndBubbleSortAssignment\D10-BinarySearchAndBubbleSortAssignment\obj\Debug\D10-BinarySearchAndBubbleSortAssignment.pdb
